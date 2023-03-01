@@ -1,0 +1,17 @@
+MACPORTS DOWNLOAD LINK:
+https://github.com/macports/macports-base/releases/download/v2.8.1/MacPorts-2.8.1-10.14-Mojave.pkg
+
+##############################################
+COMMANDS TO INSTALL DEPENDENCIES:
+
+- "sudo port install wget"
+- "sudo port install zstd"
+- "sudo port install curl"
+##############################################
+
+
+Bootstrapping tool created by the Hephaestus Team
+
+Bootstrap created by the Procursus Team
+
+<3 
